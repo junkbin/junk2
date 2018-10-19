@@ -6,5 +6,5 @@ node_modules/bootstrap/*
 
 !node_modules/animate.css
 node_modules/animate.css/*
-!node_modules/animate.css/animate.css
+!node_modules/animate.css/animate.min.css
 
